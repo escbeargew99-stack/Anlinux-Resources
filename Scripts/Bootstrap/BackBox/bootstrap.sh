@@ -70,3 +70,4 @@ cd $2
 rm -rf ../backbox-rootfs-$1.tar.xz
 rm -rf dev/*
 XZ_OPT=-9 tar -cJvf ../backbox-rootfs-$1.tar.xz ./*
+
