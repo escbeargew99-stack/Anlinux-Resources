@@ -1,6 +1,6 @@
 echo ""
 echo ""
-echo "Changing some permissions, please be patient"
+echo "Changing some permissions, please be patient" 
 echo ""
 echo ""
 
