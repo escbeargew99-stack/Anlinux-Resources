@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-folder=arch-fs
+folder=arch-fs 
 if [ -d "$folder" ]; then
 	first=1
 	echo "skipping downloading"
