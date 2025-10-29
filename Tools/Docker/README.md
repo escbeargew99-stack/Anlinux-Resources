@@ -7,3 +7,4 @@
 
 2. Run the script
 > ./fetch-docker-image.sh preferred_directory image[:tag][@digest]
+ 
