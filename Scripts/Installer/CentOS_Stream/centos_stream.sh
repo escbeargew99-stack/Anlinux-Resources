@@ -100,6 +100,7 @@ echo "Setting Pulseaudio server to 127.0.0.1"
 echo "fixing shebang of $bin"
 termux-fix-shebang $bin
 echo "making $bin executable"
+
 chmod +x $bin
 echo "removing image for some space"
 rm $tarball
