@@ -2,7 +2,7 @@ This is the place where all the images and scripts are stored. If you are lookin
 
 To open an issue, please visit [here](https://github.com/EXALAB/AnLinux-App/issues)
 
-
+ 
 
 ## Bootstraping System
 
