@@ -1,4 +1,4 @@
-export USER=root
+export USER=root 
 export HOME=/root
 
 case `uname -m` in
