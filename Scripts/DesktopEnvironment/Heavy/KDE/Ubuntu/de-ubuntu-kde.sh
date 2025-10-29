@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 #Get the necessary components
 apt-get update
