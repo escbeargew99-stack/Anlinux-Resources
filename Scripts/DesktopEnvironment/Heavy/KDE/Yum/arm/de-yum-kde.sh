@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 #Get the necessary components
 yum groupinstall kde-desktop-environment --forcearch=armv7hl -y
