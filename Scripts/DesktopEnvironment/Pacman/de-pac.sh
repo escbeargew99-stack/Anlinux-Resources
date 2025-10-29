@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 #Get the necessary components
 pacman -Syu --noconfirm lxde tigervnc dbus
