@@ -1,4 +1,4 @@
-#!/bin/sh 
+#!/bin/sh  
 # qemu-debootstrap - setup qemu syscall emulation in a debootstrap chroot
 # Copyright (C) 2010 Loïc Minier <lool@dooz.org>
 #
